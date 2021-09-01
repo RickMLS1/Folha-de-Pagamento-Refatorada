@@ -28,6 +28,8 @@ Message Chains: Example: object.getE().getD().getC().getB().getA().getValue();
 
 Providing a single interface for a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
 
+Classe: PayrollFacade;
+
 ## 2. Singleton
 
 Ensure that a class only has a single instance, and provide a global access point to it.
