@@ -1,6 +1,8 @@
 # Folha de Pagamento Refatorada
 ##
 
+## Código Original: https://github.com/RickMLS1/Folha-de-Pagamento
+
 # Code Smells
 
 Long Method:
