@@ -1,6 +1,8 @@
 # Folha de Pagamento Refatorada
 ##
 
+## IDE Utilizada : Jetbrains IntelliJ
+
 ## Código Original: https://github.com/RickMLS1/Folha-de-Pagamento
 
 # Code Smells
@@ -8,8 +10,11 @@
 Long Method:
 
 a. The size of the parameter list 
+
 b. You are getting several values from an object and passing these values as parameters in a method call 
+
 c. The amount of switch statement for dispatching and handling request 
+
 d. The amount of switch statement to gather data from numerous classes with different interfaces.
 
 Large Class: Fields and methods
