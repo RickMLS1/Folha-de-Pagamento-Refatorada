@@ -1,7 +1,4 @@
 # Folha de Pagamento Refatorada
-##
-
-### IDE Utilizada : Jetbrains IntelliJ
 
 ## Código Original: https://github.com/RickMLS1/Folha-de-Pagamento
 
@@ -31,6 +28,7 @@ A class that is not doing enough to pay for itself.
 
 ### Message Chains: 
 Example: object.getE().getD().getC().getB().getA().getValue();
+##
 
 # Patterns Used 
 
@@ -51,3 +49,6 @@ Classes: BancoDeDadosSingleton, CalendarioSingleton
 Define the skeleton of an algorithm within an operation, leaving some steps to be filled in by subclasses. Template Method allows its subclasses to redefine certain steps of an algorithm without changing its structure.
 
 Classes: Empregado -> Assalariado, Comissionado, Horista
+##
+
+### IDE Utilizada : Jetbrains IntelliJ
