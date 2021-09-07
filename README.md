@@ -32,23 +32,6 @@ Example: object.getE().getD().getC().getB().getA().getValue();
 
 # Patterns Used 
 
-## 1. Facade 
-
-Providing a single interface for a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
-
-Classe: FolhaDePagamentoFacade;
-
-## 2. Singleton
-
-Ensure that a class only has a single instance, and provide a global access point to it.
-
-Classes: BancoDeDadosSingleton, CalendarioSingleton
-
-## 3. Template Method
-
-Define the skeleton of an algorithm within an operation, leaving some steps to be filled in by subclasses. Template Method allows its subclasses to redefine certain steps of an algorithm without changing its structure.
-
-Classes: Empregado -> Assalariado, Comissionado, Horista
 ##
 
 ### IDE Utilizada : Jetbrains IntelliJ
