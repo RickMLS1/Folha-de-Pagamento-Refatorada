@@ -3,7 +3,7 @@ package Empregado;
 import java.util.ArrayList;
 import Sistema.Excecoes;
 
-public class Horista extends Empregado // Hierarquia (extends)
+public class Horista extends Empregado // Herança (extends)
 {
     public Horista (int numberEmpregado, String nome, String endereco, int tipo, int metododePagamento, int isSindicato, String tipoCronograma, int diaSemana)
     {
