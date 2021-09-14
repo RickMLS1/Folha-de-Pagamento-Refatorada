@@ -24,7 +24,7 @@ public class BaseDeDadosSingleton
     {
         int i;
 
-        System.out.println("Digite o número do Empregado:");
+        System.out.println("Digite o ID do Empregado:");
         int numberEmpregado = Excecoes.readInt();
 
         if (empregadoArrayList.isEmpty())
