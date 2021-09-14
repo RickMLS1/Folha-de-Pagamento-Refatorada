@@ -3,7 +3,7 @@ package Empregado;
 import Sistema.Excecoes;
 import java.util.ArrayList;
 
-public class Assalariado extends Empregado // Hierarquia (extends)
+public class Assalariado extends Empregado // Herança (extends)
 {
     public Assalariado (int numberEmpregado, String nome, String endereco, int tipo, int metododePagamento, int isSindicato, String tipoCronograma, int diaSemana)
     {
