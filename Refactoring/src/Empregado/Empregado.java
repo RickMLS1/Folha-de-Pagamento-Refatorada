@@ -201,7 +201,7 @@ public abstract class Empregado
     {
         String string;
 
-        string = "Número Empregado: " + this.numberEmpregado + "		Nome: " + this.nome;
+        string = "ID Empregado: " + this.numberEmpregado + "		Nome: " + this.nome;
         string += "\n--------------------------------------------------------------------------------------------------------\n";
         string += "Endereço: " + this.endereco;
         string += "\n--------------------------------------------------------------------------------------------------------\n";
